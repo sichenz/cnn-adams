@@ -7,4 +7,4 @@ in order to train deep learning models. This method is well-suited for big data 
 parameters since efficient stochastic optimization techniques are required to account for noisy
 objectives. Furthermore, CNN architecture is composed of many unique layers conducive to
 detecting different features in an image. The accuracy of these numerical methods will be
-analyzed through sampling and initiating a loss function
+analyzed through sampling and initiating a loss function.
