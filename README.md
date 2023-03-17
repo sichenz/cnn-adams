@@ -1,6 +1,7 @@
 # Adam's Method and ConvNets in Image Classification
 
-Adam’s Method is a stochastic gradient-based optimization
+This project utilizes Adam’s Method and Convolutional Neural Networks (CNN)
+in optimizing visual classifications. Adam’s Method is a stochastic gradient-based optimization
 algorithm that utilizes adaptive estimates of stochastic functions and replacement optimization
 in order to train deep learning models. This method is well-suited for big data with many
 parameters since efficient stochastic optimization techniques are required to account for noisy
